@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- DJI sample + RC-N1 / RC-N2 / RC-N3 logiclink accessories -->
+    <usb-accessory
+        manufacturer="DJI"
+        model="com.dji.logiclink"
+        version="1.0" />
+    <usb-accessory
+        manufacturer="DJI"
+        model="com.dji.logiclink"
+        version="2.0" />
+    <usb-accessory
+        manufacturer="DJI"
+        model="com.dji.logiclink"
+        version="3.0" />
+    <usb-accessory
+        manufacturer="DJI"
+        model="com.dji.logiclink2"
+        version="1.0" />
+    <usb-accessory
+        manufacturer="DJI"
+        model="T600"
+        version="1.0" />
+</resources>

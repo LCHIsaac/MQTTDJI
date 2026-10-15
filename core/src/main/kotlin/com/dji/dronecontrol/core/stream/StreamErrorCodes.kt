@@ -1,0 +1,13 @@
+package com.dji.dronecontrol.core.stream
+
+object StreamErrorCodes {
+    const val INVALID_PARAMS = "INVALID_PARAMS"
+    const val AGORA_TOKEN_EXPIRED = "AGORA_TOKEN_EXPIRED"
+    const val NO_UPLINK = "NO_UPLINK"
+    const val CAMERA_NOT_READY = "CAMERA_NOT_READY"
+    const val STREAM_TIMEOUT = "STREAM_TIMEOUT"
+    const val STREAM_ERROR = "STREAM_ERROR"
+    const val TOKEN_ENDPOINT_NOT_CONFIGURED = "TOKEN_ENDPOINT_NOT_CONFIGURED"
+    const val TOKEN_ENDPOINT_UNAUTHORIZED = "TOKEN_ENDPOINT_UNAUTHORIZED"
+    const val TOKEN_ENDPOINT_FAILED = "TOKEN_ENDPOINT_FAILED"
+}
